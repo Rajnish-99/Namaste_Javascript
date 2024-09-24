@@ -16,7 +16,7 @@ dataPromise.then((res) => console.log(res));
 
 
 const p = new Promise((resolve , reject) =>{
-    resolve("Promise Resolved");
+    resolve("Promise Resolved value");
 })
 
 
